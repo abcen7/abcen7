@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abcentgg
-- 👀 I’m interested in coding on PHP, Python, C#, Java
-- 🌱 I’m currently learning Python, C#
+- 👀 I’m interested in coding on PHP, Python, Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any companies, who needs middle php developer
 - 📫 How to reach me: telegram: @abcen7
