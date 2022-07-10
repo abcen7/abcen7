@@ -25,6 +25,6 @@
 [<img src='https://svgshare.com/i/igP.svg' alt='github' height='40'>](https://github.com/abcen7)
 [<img src='https://svgshare.com/i/ifz.svg' alt='telegram' height='40'>](https://t.me/abcen7)  
 
-![Metrics](https://metrics.lecoq.io/abcen7?template=classic&config)
+![Metrics](https://metrics.lecoq.io/abcen7?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abcen7&theme=dark)](https://git.io/streak-stats)
