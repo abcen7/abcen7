@@ -17,8 +17,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
 ### Contact with Me
-![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)
-![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/abcen7)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abcen71)
 
 [![abcen7 stats](https://github-readme-stats.vercel.app/api?username=abcen7&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcen7&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
