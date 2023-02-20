@@ -1,8 +1,8 @@
-## I'm Jesper Nielsen. Fullstack Web Developer
+## I'm Jesper Nielsen. Software Engineer
 
 ### I am working at:
-- «LLC Civilist» [2022 - to present] as a <b>fullstack web developer</b>
-- «Bivreost» [2022 - to present] as a <b>technical director</b>
+- «LLC Civilist» [2022 - to present] as a <b>software engineer</b>
+- «Bivreost» [2022 - to present] as a <b>technical director and software engineer</b>
 
 ### Languages and tools
 
