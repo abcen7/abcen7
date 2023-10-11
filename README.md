@@ -83,8 +83,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-cx3k.vercel.app/api?username=abcen7&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats-cx3k.vercel.app/api?username=abcen7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
 <br />
 
-<div align="center"><img src="https://github-readme-stats-cx3k.vercel.app/api/top-langs/?username=abcen7&layout=compact&count_private=true&theme=radical" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats-cx3k.vercel.app/api/top-langs/?username=abcen7&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical" align="center" /></div>
 <br/>  
