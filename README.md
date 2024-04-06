@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jesper, a part-time full-stack software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [PortalVR](https://portal-vr.ru/)  
+- 🔭 I’m currently working on [bivreost](https://bivreost.com/)  
   
 
 - 🌱 I’m currently learning C++, algorithms and data structures  
