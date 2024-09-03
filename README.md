@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kirill, a part-time full-stack software engineer 👨‍💻</div>  
+### <div align="center">I'm Kirill, a full-time full-stack software engineer 👨‍💻</div>  
   
 
 - CTO & CBO at [bivreost](https://bivreost.com/)
