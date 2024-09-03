@@ -3,10 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Jesper, a part-time full-stack software engineer 👨‍💻</div>  
+### <div align="center">I'm Kirill, a part-time full-stack software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [bivreost](https://bivreost.com/)  
+- CTO & CBO at [bivreost](https://bivreost.com/)
+- Full-stack software engineer at [VBRL](https://vbrl.ai/)
   
 
 - 🌱 I’m currently learning C++, algorithms and data structures  
