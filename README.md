@@ -1,6 +1,6 @@
-#### <div style="display:flex; justify-content:center; align-items:center;" align="center"><img src="https://github.com/abcen7/abcen7/blob/main/assets/hand.gif?raw=true" align="center" style="width: 10%" />Hi there! </div>
+### <div align="center"><img src="https://github.com/abcen7/abcen7/blob/main/assets/hand.gif?raw=true" align="center" style="width: 10%" />Hi there! </div>
 
-#### <div align="center">I am Kirill Sermyagin. <br> Full-stack Software Engineer 👨‍💻</div>
+### <div align="center">I am Kirill Sermyagin. <br> Full-stack Software Engineer 👨‍💻</div>
 
 - 4+ years in commercial development
 - Chief Technical Officer at [bivreost](https://bivreost.com/)
