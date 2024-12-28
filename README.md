@@ -1,4 +1,13 @@
-### <div align="center"><img src="https://github.com/abcen7/abcen7/blob/main/assets/hand.gif?raw=true" align="center" style="width: 10%" />Hi there! </div>
+<div 
+style="width:100%; display:flex; flex-direction:row; justify-content:center; align-items:center;"
+>
+  <img 
+    src="https://github.com/abcen7/abcen7/blob/main/assets/hand.gif?raw=true" 
+    align="center" 
+    style="width: 35px" 
+  />
+  <h3>Hi there!</h3> 
+</div>
 
 ### <div align="center">I am Kirill Sermyagin. <br> Full-stack Software Engineer 👨‍💻</div>
 
