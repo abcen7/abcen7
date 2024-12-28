@@ -7,9 +7,9 @@
 - Full-stack software engineer at [VBRL](https://vbrl.ai/)
 - Student at [RSREU](https://rsreu.ru/en/) Bachelor «Software Engineering in AI» with [BMSTU](https://mirror.bmstu.ru/)
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### Frontend
+### Frontend
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -22,7 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
 
-#### Backend
+### Backend
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
@@ -41,7 +41,7 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 
-#### DevOps
+### DevOps
 
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ![Cloudflare Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare+Pages&color=F38020&logo=Cloudflare+Pages&logoColor=FFFFFF&label=)
@@ -51,7 +51,7 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 <br/>
 
-### 🔗 Connect with me
+## 🔗 Connect with me
 
 <div align="center">
 <a href="https://github.com/abcen7" target="_blank">
@@ -67,7 +67,7 @@
 
 <br/>
 
-### ⚡️ Github Stats
+## ⚡️ Github Stats
 
 <div align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
 <a href="https://github.com/abcen7">
