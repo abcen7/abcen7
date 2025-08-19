@@ -15,7 +15,6 @@ style="width:100%; display:flex; flex-direction:row; justify-content:center; ali
 ### <div align="center">I am Kirill Sermyagin. <br> Full-stack Software Engineer 👨‍💻</div>
 
 - 4+ years in commercial development
-- Full-stack software engineer at [VBRL](https://vbrl.ai/)
 - Student at [RSREU](https://rsreu.ru/en/) Bachelor «Software Engineering in AI» with [BMSTU](https://mirror.bmstu.ru/)
 
 ## 🛠 Tech Stack
