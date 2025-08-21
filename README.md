@@ -16,6 +16,7 @@ style="width:100%; display:flex; flex-direction:row; justify-content:center; ali
 
 - 4+ years in commercial development
 - Student at [RSREU](https://rsreu.ru/en/) Bachelor «Software Engineering in AI» with [BMSTU](https://mirror.bmstu.ru/)
+- Senior Software Engineer at [Beeline](https://beeline.ru)
 
 ## 🛠 Tech Stack
 
